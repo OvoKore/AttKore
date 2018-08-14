@@ -27,7 +27,7 @@ addTableFolders bRO
 charBlockSize 144
 pinCode 1
 charDeleteDateType 1
-sendCryptKeys 0x617840AB, 0x2E4C4F40, 0x04426639
+sendCryptKeys 0x5C6B1429, 0x7D6B5A7C, 0x55AD2C5F
 
 # http://ragnarok.uol.com.br
 [Brazil - bRO: Thor]
@@ -47,7 +47,7 @@ addTableFolders bRO
 charBlockSize 144
 pinCode 1
 charDeleteDateType 1
-sendCryptKeys 0x617840AB, 0x2E4C4F40, 0x04426639
+sendCryptKeys 0x5C6B1429, 0x7D6B5A7C, 0x55AD2C5F
 
 # http://ro.zhaouc.com/
 [cRO - China: Taren]
@@ -117,7 +117,7 @@ patchpath /patch02
 addTableFolders iRO/Renewal;iRO
 charBlockSize 145
 charDeleteDateType 1
-sendCryptKeys 0x6738508B, 0x43F02C9A, 0x14B46832
+sendCryptKeys 0x323A1DB2, 0x726953C5, 0x1FD54322
 
 # http://playragnarok.com
 [International - iRO: Sakray]
@@ -160,7 +160,7 @@ charBlockSize 145
 pauseCharLogin 1
 patchserver ropatch1.gravityus.com
 patchpath /repatch
-sendCryptKeys 0x144C5CD4, 0x4B39402A, 0x48032918
+sendCryptKeys 0x220B620B, 0x620B620B, 0x620B620B
 
 # TODO: needs a servertype & table folder
 # https://ragnarokonline.gungho.jp/
