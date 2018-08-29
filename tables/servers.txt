@@ -27,7 +27,9 @@ addTableFolders bRO
 charBlockSize 144
 pinCode 1
 charDeleteDateType 1
-sendCryptKeys 0x530C62EB, 0x44E91D9A, 0x638C1AA5
+sendCryptKeys 0x61CF3BC3, 0x48DE0AB2, 0x1E8D78ED
+blockingPlayerCancel 1
+rankingSystemType 1
 
 # http://ragnarok.uol.com.br
 [Brazil - bRO: Thor]
@@ -47,7 +49,9 @@ addTableFolders bRO
 charBlockSize 144
 pinCode 1
 charDeleteDateType 1
-sendCryptKeys 0x530C62EB, 0x44E91D9A, 0x638C1AA5
+sendCryptKeys 0x61CF3BC3, 0x48DE0AB2, 0x1E8D78ED
+blockingPlayerCancel 1
+rankingSystemType 1
 
 # http://ro.zhaouc.com/
 [cRO - China: Taren]
@@ -67,6 +71,9 @@ secureLogin_account 0
 storageEncryptKey 0x050B6F79, 0x0202C179, 0x0E20120, 0x04FA43E3, 0x0179B6C8, 0x05973DF2, 0x07D8D6B, 0x08CB9ED9
 pinCode 1
 charDeleteDateType 1
+pauseCharLogin 1
+blockingPlayerCancel 1
+rankingSystemType
 pauseCharLogin 1
 
 # http://www.ragnarokeurope.com/
@@ -101,6 +108,7 @@ storageEncryptKey 0x050B6F79, 0x0202C179, 0x00E20120, 0x04FA43E3, 0x0179B6C8, 0x
 addTableFolders idRO
 charBlockSize 144
 charDeleteDateType 1
+blockingPlayerCancel 1
 
 # Renewal
 # http://playragnarok.com
@@ -117,7 +125,10 @@ patchpath /patch02
 addTableFolders iRO/Renewal;iRO
 charBlockSize 145
 charDeleteDateType 1
-sendCryptKeys 0x3A78749E, 0x0C02582A, 0x2EDD7F28
+sendCryptKeys 0x36CF7CAB, 0x2D1537DD, 0x140740AF
+blockingPlayerCancel 1
+rankingSystemType 1
+pauseCharLogin 1
 
 # http://playragnarok.com
 [International - iRO: Sakray]
@@ -132,6 +143,7 @@ paddedPackets_attackID 0x72
 paddedPackets_skillUseID 0xF5
 addTableFolders iRO
 charBlockSize 145
+rankingSystemType 1
 
 # Pre-renewal
 # http://playragnarok.com
@@ -145,6 +157,7 @@ serverType iRO_Classic
 serverEncoding Western
 addTableFolders iRO/Classic;iRO
 charBlockSize 108
+rankingSystemType 1
 
 # Re:Start
 # http://playragnarokrestart.com/
@@ -160,7 +173,9 @@ charBlockSize 145
 pauseCharLogin 1
 patchserver ropatch1.gravityus.com
 patchpath /repatch
-sendCryptKeys 0x1C7B093E, 0x0A481748, 0x52645FDA
+sendCryptKeys 0x48F719D3, 0x1F73118F, 0x27963B51
+rankingSystemType 1
+pauseCharLogin 1
 
 # TODO: needs a servertype & table folder
 # https://ragnarokonline.gungho.jp/
@@ -194,6 +209,7 @@ storageEncryptKey 0x050B6F79, 0x0202C179, 0x0E20120, 0x04FA43E3, 0x0179B6C8, 0x0
 OTT_ip 112.175.128.135
 OTT_port 6900
 sendCryptKeys 0x2FC330DD, 0x4D914DE2, 0x01C04E1F
+blockingPlayerCancel 1
 
 # http://ro.gnjoy.com/
 [Korea - kRO: Sara/Rangidis/Thanatos]
@@ -284,7 +300,7 @@ gameguard 1
 
 # http://gombak-gamerz.com/
 [GGamerzRO]
-ip 116.251.223.176
+ip 116.251.223.136
 port 6900
 private 1
 master_version 1
@@ -295,7 +311,7 @@ serverEncoding Western
 charBlockSize 147
 pinCode 1
 addTableFolders pserver/ggRO
-clientHash fa058c003da60688ef1f8baffa0d3135
+clientHash DA4E4A35A46BF326C9C45C653979972A
 sendCryptKeys 0x4C17382A, 0x29961E4F, 0x7ED174C9
 
 [Localhost]
