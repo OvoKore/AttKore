@@ -27,7 +27,7 @@ addTableFolders bRO
 charBlockSize 144
 pinCode 1
 charDeleteDateType 1
-sendCryptKeys 0x58586529, 0x049D1C9D, 0x0D3D6F9D
+sendCryptKeys 0x65BE29F9, 0x00D52119, 0x05C40D7C
 blockingPlayerCancel 1
 rankingSystemType 1
 
@@ -49,7 +49,7 @@ addTableFolders bRO
 charBlockSize 144
 pinCode 1
 charDeleteDateType 1
-sendCryptKeys 0x58586529, 0x049D1C9D, 0x0D3D6F9D
+sendCryptKeys 0x65BE29F9, 0x00D52119, 0x05C40D7C
 blockingPlayerCancel 1
 rankingSystemType 1
 
@@ -128,7 +128,7 @@ patchpath /patch02
 addTableFolders iRO/Renewal;iRO
 charBlockSize 145
 charDeleteDateType 1
-sendCryptKeys 0x79983A07, 0x11F01662, 0x03BD32BA
+sendCryptKeys 0x5E582C54, 0x17905F90, 0x21705090
 blockingPlayerCancel 1
 rankingSystemType 1
 pauseCharLogin 1
@@ -176,7 +176,7 @@ charBlockSize 145
 pauseCharLogin 1
 patchserver ropatch1.gravityus.com
 patchpath /repatch
-sendCryptKeys 0x61086B4D, 0x2B161F04, 0x19CB2B27
+sendCryptKeys 0x50C4733B, 0x06522384, 0x350D10A0
 rankingSystemType 1
 pauseCharLogin 1
 
