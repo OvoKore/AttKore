@@ -27,7 +27,7 @@ addTableFolders bRO
 charBlockSize 144
 pinCode 1
 charDeleteDateType 1
-sendCryptKeys 0x793E6C60, 0x728D35E2, 0x13C96D20
+sendCryptKeys 0x21B8478C, 0x69A30555, 0x43625E38
 blockingPlayerCancel 1
 rankingSystemType 1
 
@@ -49,7 +49,7 @@ addTableFolders bRO
 charBlockSize 144
 pinCode 1
 charDeleteDateType 1
-sendCryptKeys 0x793E6C60, 0x728D35E2, 0x13C96D20
+sendCryptKeys 0x21B8478C, 0x69A30555, 0x43625E38
 blockingPlayerCancel 1
 rankingSystemType 1
 
@@ -92,7 +92,7 @@ charBlockSize 116
 pauseCharLogin 1
 
 # https://ror.gravindo.id/
-[Indonesia - idRO: Midgard,Asgard ,Valhalla]
+[Indonesia - idRO: Odin]
 ip 202.93.25.131
 port 6900
 master_version 12
@@ -128,7 +128,7 @@ patchpath /patch02
 addTableFolders iRO/Renewal;iRO
 charBlockSize 145
 charDeleteDateType 1
-sendCryptKeys 0x5E582C54, 0x17905F90, 0x21705090
+sendCryptKeys 0x7E4D6E8F, 0x73677C6C, 0x5F421038
 blockingPlayerCancel 1
 rankingSystemType 1
 pauseCharLogin 1
@@ -176,7 +176,7 @@ charBlockSize 145
 pauseCharLogin 1
 patchserver ropatch1.gravityus.com
 patchpath /repatch
-sendCryptKeys 0x36757F38, 0x3B5D367D, 0x70B36AA5
+sendCryptKeys 0x1DE54186, 0x23ED1C11, 0x2C8908D4
 rankingSystemType 1
 pauseCharLogin 1
 
